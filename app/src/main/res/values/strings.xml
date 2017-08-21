@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Wall Pager</string>
+    <string name="home_title">壁纸</string>
+    <string name="share_photo">share_photo</string>
+    <string name="drawer_home">主页</string>
+    <string name="drawer_photos_loaded">下载管理</string>
+    <string name="drawer_invoke_system_page">壁纸设置(本地)</string>
+    <string name="drawer_settings">设置</string>
+    <string name="drawer_about">关于</string>
+    <string name="drawer_sort">排序</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+
+    <string name="sort_title">频道排序</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_primaryColor_title">主色调</string>
+    <string name="settings_primaryColor_cation">整个界面所需要的主色调</string>
+    <string name="settings_accentColor_title">重点颜色</string>
+    <string name="settings_accentColor_cation">设置界面的其他组件和细节部分所需使用的次要颜色</string>
+    <string name="settings_status_trans_title">半透明状态栏</string>
+    <string name="settings_status_trans_caption">应用深色主色调的半透明状态栏</string>
+
+    <string name="load_photo_start">图片开始下载</string>
+    <string name="load_photo_complete">图片下载完成</string>
+    <string name="notification_title">图片正在下载中</string>
+
+    <string name="about_content">     Wall Pager高清壁纸来自Unsplash，可以下载精美图片，将精彩图片设置为手机壁纸，或者使用侧边导航中的“壁纸设置（本地）”功能将手机相册中的精美图片设置成手机壁纸，也可以设置手机的锁屏壁纸。</string>
+    <string name="about_copyright">版权所有 @钉某人</string>
+    <string name="about_github">github地址：https://github.com/DingMouRen</string>
+
+    <string name="splash_desc">给您最好的视觉体验</string>
+
+    <string name="detail_load">下载</string>
+    <string name="detail_share">分享</string>
+    <string name="detail_set_page">设为壁纸</string>
+    <string name="detail_photo_attr">照片属性</string>
+
+    <string name="wifi_disconnect">请连接Wifi后使用哦</string>
+</resources>
